@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/barkatkamran2015/gpt3-bk/static/css/main.7725d8fd.css",
+    "main.js": "/barkatkamran2015/gpt3-bk/static/js/main.0464ade9.js",
+    "static/media/possibility.png": "/barkatkamran2015/gpt3-bk/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/aia.png": "/barkatkamran2015/gpt3-bk/static/media/aia.0fda64dd619a154514d9.png",
+    "static/media/blog01.png": "/barkatkamran2015/gpt3-bk/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/barkatkamran2015/gpt3-bk/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/barkatkamran2015/gpt3-bk/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/barkatkamran2015/gpt3-bk/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/barkatkamran2015/gpt3-bk/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/barkatkamran2015/gpt3-bk/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/barkatkamran2015/gpt3-bk/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/barkatkamran2015/gpt3-bk/index.html",
+    "main.7725d8fd.css.map": "/barkatkamran2015/gpt3-bk/static/css/main.7725d8fd.css.map",
+    "main.0464ade9.js.map": "/barkatkamran2015/gpt3-bk/static/js/main.0464ade9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7725d8fd.css",
+    "static/js/main.0464ade9.js"
+  ]
+}
